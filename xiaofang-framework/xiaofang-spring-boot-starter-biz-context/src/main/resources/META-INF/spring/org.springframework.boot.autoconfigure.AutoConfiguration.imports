@@ -1,0 +1,2 @@
+com.lqf.framework.biz.context.config.ContextAutoConfiguration
+com.lqf.framework.biz.context.config.FeignContextAutoConfiguration
