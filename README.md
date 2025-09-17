@@ -4,7 +4,7 @@
 
 - 项目架构：微服务分布式架构 + Maven 多模块 + Spring Boot Starter 组件 + 前后端分离；
 
-- 技术栈：Spring Cloud Alibaba + Nacos + Gateway + Feign + Mybatis + MySQL + Redis + RocketMQ + SaToken + Minio + Cassandra + Zookeeper
+- 技术栈：`Spring Cloud Alibaba` `Nacos` `Gateway` `Feign` `Mybatis` `MySQL` `Redis` `RocketMQ` `SaToken` `Minio` `Cassandra` `Zookeeper`
 
 - 核心服务：
   - 网关服务：
